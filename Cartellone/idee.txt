@@ -1,0 +1,7 @@
+Foto:
+ - premio nobel -> quadro con 1cm di conice
+ - altre 	-> tipo polaroid con descrizione in basso o a lato
+
+Box:
+ - premio nobel -> effetto cofanetto con il premio nobel ed il discorso
+ - commissione Nord-Sud: front-IMG usare copertina del libro.
