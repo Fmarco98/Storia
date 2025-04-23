@@ -1,1 +1,5 @@
 mappa
+imgs
+berlino
+governi
+confine
